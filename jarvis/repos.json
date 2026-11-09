@@ -1,0 +1,159 @@
+{
+  "fuentes": {
+    "sergioprompts-2026-11-05": {
+      "autor": "@sergioprompts",
+      "titulo": "10 repos de GitHub gratis",
+      "post": "https://www.instagram.com/p/DfYb9FHkWox/",
+      "publicado": "2026-11-05",
+      "guardado": "2026-11-09"
+    }
+  },
+  "repos": [
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "nombre": "OpenCut",
+      "reemplaza": [
+        "CapCut"
+      ],
+      "que_hace": "Editor de video web, escritorio y móvil",
+      "licencia": "MIT",
+      "estrellas": 97892,
+      "relevancia": "baja",
+      "categoria": "video",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "nombre": "VoiceStudio",
+      "reemplaza": [
+        "ElevenLabs"
+      ],
+      "que_hace": "Clonación de voz, doblaje, TTS y transcripción 100% local",
+      "licencia": "AGPL-3.0",
+      "estrellas": 105661,
+      "relevancia": "media",
+      "categoria": "audio",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "AppFlowy-IO/AppFlowy",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy",
+      "nombre": "AppFlowy",
+      "reemplaza": [
+        "Notion"
+      ],
+      "que_hace": "Workspace con IA, wikis y proyectos; datos propios",
+      "licencia": "AGPL-3.0",
+      "estrellas": 78546,
+      "relevancia": "baja",
+      "categoria": "docs",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "nombre": "Plane",
+      "reemplaza": [
+        "ClickUp",
+        "Jira",
+        "Linear"
+      ],
+      "que_hace": "Gestión de proyectos: tareas, sprints, docs. MCP oficial: makeplane/plane-mcp-server",
+      "licencia": "AGPL-3.0",
+      "estrellas": 62201,
+      "relevancia": "baja",
+      "categoria": "project-management",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "calcom/cal.diy",
+      "url": "https://github.com/calcom/cal.diy",
+      "nombre": "Cal.diy",
+      "reemplaza": [
+        "Calendly"
+      ],
+      "que_hace": "Agenda de reuniones (ex Cal.com)",
+      "licencia": "MIT",
+      "estrellas": 49836,
+      "relevancia": "media",
+      "categoria": "scheduling",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "nombre": "Chatwoot",
+      "reemplaza": [
+        "Intercom",
+        "Zendesk"
+      ],
+      "que_hace": "Bandeja omnicanal: chat web, email, WhatsApp",
+      "licencia": "mixta",
+      "estrellas": 39444,
+      "relevancia": "media",
+      "categoria": "support",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "nombre": "OpenSEO",
+      "reemplaza": [
+        "Semrush",
+        "Ahrefs"
+      ],
+      "que_hace": "Keywords, rank tracking, backlinks, auditorías. Conector oficial de Claude (MCP https://app.openseo.so/mcp, OAuth). Hosteado USD 10/mes o autohospedado con API key de DataForSEO",
+      "licencia": "MIT",
+      "estrellas": 27001,
+      "relevancia": "alta",
+      "categoria": "seo",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "nombre": "Cap",
+      "reemplaza": [
+        "Loom"
+      ],
+      "que_hace": "Grabar pantalla y compartir por link",
+      "licencia": "mixta",
+      "estrellas": 24720,
+      "relevancia": "media",
+      "categoria": "video",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "nombre": "Dyad",
+      "reemplaza": [
+        "Lovable",
+        "v0",
+        "Bolt"
+      ],
+      "que_hace": "Constructor de apps con IA, local",
+      "licencia": "mixta",
+      "estrellas": 22238,
+      "relevancia": "baja",
+      "categoria": "app-builder",
+      "fuente": "sergioprompts-2026-11-05"
+    },
+    {
+      "repo": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "nombre": "OpenWhispr",
+      "reemplaza": [
+        "Wispr Flow"
+      ],
+      "que_hace": "Dictado voz a texto, modelos locales o API propia",
+      "licencia": "MIT",
+      "estrellas": 11095,
+      "relevancia": "media",
+      "categoria": "dictation",
+      "fuente": "sergioprompts-2026-11-05"
+    }
+  ]
+}
